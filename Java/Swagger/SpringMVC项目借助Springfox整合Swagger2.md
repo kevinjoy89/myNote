@@ -181,5 +181,4 @@ public class WgyAppRegisterAction extends WebServiceAction {
 
 配置完成后效果如下：
 
-![img](https://github.com/kevinjoy89/myNote/blob/master/images/1.png)
-
+![](../../images/1.png)

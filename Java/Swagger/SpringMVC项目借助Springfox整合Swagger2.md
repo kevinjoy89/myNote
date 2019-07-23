@@ -181,4 +181,5 @@ public class WgyAppRegisterAction extends WebServiceAction {
 
 配置完成后效果如下：
 
-![1563615584954](C:\Users\Kevin\AppData\Roaming\Typora\typora-user-images\1563615584954.png)
+![img](https://github.com/kevinjoy89/myNote/blob/master/images/1.png)
+
